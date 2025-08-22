@@ -5,7 +5,7 @@ I’m a Automotive System Engineer with a knack for making sure 🚗 Brake ECUs 
 <br>
 I specialize in Hardware-in-the-Loop (HIL), Python Automation & Cybersecurity, working with automotive OEMs across China, Japan, India & Europe.  <br>
 <br>
-Developer | CyberSecurity Enthusiast | Stoic | Driven by Passion & Gratitude
+
 
 
 ## 🌐 Socials:
