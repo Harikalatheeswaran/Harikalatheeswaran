@@ -5,7 +5,7 @@ I’m a Automotive System Engineer with a knack for making sure 🚗 Brake ECUs 
 <br>
 I specialize in Hardware-in-the-Loop (HIL), Python Automation & Cybersecurity, working with automotive OEMs across China, Japan, India & Europe.  <br>
 <br>
-<!--https://emojicombos.com/pikachu-->
+<!--https://emojicombos.com/pikachu
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -46,6 +46,7 @@ I specialize in Hardware-in-the-Loop (HIL), Python Automation & Cybersecurity, w
 ⣿⣿⣿⣷⣬⣤⣶⣶⣶⣶⣬⣭⣭⣭⣍⣀⠂⠃⠛⠙⢋⠁⢐⠻⠏⠿⠛⠟⠆⠉⣉⣉⣉⣙⣛⣛⣛⣉⣁⣈⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣶⣿⣿⣿⣷⣶⣶⣶⣶⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hari-kalatheeswaran-619173184/)
 
