@@ -1,9 +1,11 @@
 # 💫 Hi there 👋! 
 
-
-I’m a Automotive System Engineer with a knack for making sure 🚗 Brake ECUs don't freak out under pressure a.k.a. Failsafe functionalities. <br>
+Python Developer | Ex-System Test Engineer (Brake ECUs)
+I spent few years as a System Test Engineer specializing in Brake ECU Fail-Safe module rigorously testing functionalities on HIL rigs for automotive OEMs across China, Japan, India & Europe.
 <br>
-I specialize in Hardware-in-the-Loop (HIL), Python Automation & Cybersecurity, working with automotive OEMs across China, Japan, India & Europe.  <br>
+<br>
+After years of intentionally breaking software to make it stronger, I decided to channel that energy into building instead. <br>Now I spend my days crafting clean Python code, automating repetitive tasks, and writing solutions that (hopefully) survive their first real-world test. <br>
+I’m currently a Python Developer, who's actively learning data engineering & analytics. <br>
 <br>
 <!--https://emojicombos.com/pikachu
 ```
