@@ -1,10 +1,10 @@
 # 💫 Hi there 👋! 
 
-Python Developer | Ex-System Test Engineer (Brake ECUs)
+Python Developer | Ex-System Test Engineer (Brake ECUs) <br>
 I spent few years as a System Test Engineer specializing in Brake ECU Fail-Safe module rigorously testing functionalities on HIL rigs for automotive OEMs across China, Japan, India & Europe.
 <br>
 <br>
-After years of intentionally breaking software to make it stronger, I decided to channel that energy into building instead. <br>Now I spend my days crafting clean Python code, automating repetitive tasks, and writing solutions that (hopefully) survive their first real-world test. <br>
+After years of intentionally breaking software to make it stronger, I decided to channel that energy into building instead. <br>Now I spend my days crafting clean Python code, automating repetitive tasks, and writing solutions that (hopefully) survive their first real-world test. <br><br>
 I’m currently a Python Developer, who's actively learning data engineering & analytics. <br>
 <br>
 <!--https://emojicombos.com/pikachu
