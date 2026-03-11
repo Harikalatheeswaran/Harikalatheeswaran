@@ -1,5 +1,5 @@
+# <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 # 💫 Hi there 👋! 
-
 Python Developer | Ex-System Test Engineer (Brake ECUs) <br>
 I spent few years as a System Test Engineer specializing in Brake ECU Fail-Safe module rigorously testing functionalities on HIL rigs for automotive OEMs across China, Japan, India & Europe.
 <br>
